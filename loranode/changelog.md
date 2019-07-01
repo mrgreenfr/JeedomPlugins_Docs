@@ -1,0 +1,11 @@
+﻿2019-07-01
+===
+
+-   Correction d'un problème de couleur de texte dans l'interface des commandes
+
+2019.06.28
+===
+
+-   New Plugins
+
+    -   Mise en ligne du plugins sur le Market Jeedom
