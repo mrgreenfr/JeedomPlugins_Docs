@@ -3,6 +3,8 @@
 
 -   Correction d'un problème de couleur de texte dans l'interface des commandes
 
+-   Mise en place du ChangeLog
+
 2019.06.28
 ===
 
