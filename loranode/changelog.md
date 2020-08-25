@@ -1,4 +1,10 @@
-﻿2019-07-01
+﻿2020-08-25
+===
+
+-   Compatilité avec les produits tekelek (Payload avec des tableaux dans les fields)
+
+
+2019-07-01
 ===
 
 -   Correction d'un problème de couleur de texte dans l'interface des commandes
