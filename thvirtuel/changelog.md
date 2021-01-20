@@ -1,4 +1,10 @@
-﻿2021-01-12
+﻿2021-01-20
+===
+
+-   Création d'un équipement type "Délestage" permettant de gérer le délestage, et d'afficher les thermostats sur la tuile (accès facile au thermostat en un seul clic)
+-   Correction de bug : Lorsque la consigne était changée et qu'elle était paramétrée pour être égale à la consigne d'un autre thermostat. La valeur était écrasée.
+
+2021-01-12
 ===
 
 -   Gestion d'une sonde de température secondaire, en cas de panne de la sonde principale.
