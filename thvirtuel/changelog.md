@@ -1,4 +1,9 @@
-﻿2021-01-20
+﻿2021-02-03
+===
+
+-   Création d'un équipement type "Programmation" permettant de la programmation et des modes (boutons)
+
+2021-01-20
 ===
 
 -   Création d'un équipement type "Délestage" permettant de gérer le délestage, et d'afficher les thermostats sur la tuile (accès facile au thermostat en un seul clic)
