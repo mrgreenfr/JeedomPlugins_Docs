@@ -1,4 +1,11 @@
-﻿2021-02-03
+﻿2021-02-08
+===
+
+-   Ajout de l'ordre : Actions sur changement de consigne (principalement utilisé en mode "télécommande")
+-   Correction de l'affichage des thermostats (popup) dans la tuile délestage
+-   Possibilité d'utiliser un thermostat virtuel sans sonde de température (mode "télécommande")
+
+2021-02-03
 ===
 
 -   Création d'un équipement type "Programmation" permettant de la programmation et des modes (boutons)
