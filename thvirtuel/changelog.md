@@ -1,4 +1,9 @@
-﻿2021-02-08
+﻿2021-02-16
+===
+
+-   Délestage : Option sur dépassement de consommation instantannée ou calculée.
+
+2021-02-08
 ===
 
 -   Ajout de l'ordre : Actions sur changement de consigne (principalement utilisé en mode "télécommande")
