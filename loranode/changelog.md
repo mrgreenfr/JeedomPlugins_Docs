@@ -1,4 +1,10 @@
-﻿2020-08-25
+﻿2021-09-22
+===
+
+-   Compatilité avec TTN V3
+
+
+2020-08-25
 ===
 
 -   Compatilité avec les produits tekelek (Payload avec des tableaux dans les fields)
