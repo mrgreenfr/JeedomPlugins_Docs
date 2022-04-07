@@ -1,4 +1,9 @@
-﻿2021-02-16
+2022-04-07
+===
+
+-   Fan Speed et Swing : Gestion des modes de Fan : Auto/Low/Mid/High/Quiet et Swing on et off.
+
+2021-02-16
 ===
 
 -   Délestage : Option sur dépassement de consommation instantannée ou calculée.
