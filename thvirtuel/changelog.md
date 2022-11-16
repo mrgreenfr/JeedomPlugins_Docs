@@ -1,3 +1,9 @@
+2022-11-16
+===
+
+-   Séparation des Logs Delestage et Programmation (retiré du log principal du plugin pour plus de clartée)
+-   Envoi l'ordre quand on clique sur Mode
+
 2022-04-07
 ===
 
