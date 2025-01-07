@@ -1,4 +1,9 @@
-﻿2023-12-05
+﻿2025-01-07
+===
+
+- Correction d'un bug : Erreur php static.
+
+2023-12-05
 ===
 
 - Correction d'un bug : Bloqué en sauvegarde en cours quand on clique sur Sauvegarder.
