@@ -1,3 +1,10 @@
+2025-06-12
+===
+
+-   Compatibilité PHP8
+-   Correction de bugs (arrêt préliminaire)
+-   Ajout de l'option "Utiliser la consigne comme palier d'arrêt" dans l'onglet Consigne
+
 2022-11-16
 ===
 
