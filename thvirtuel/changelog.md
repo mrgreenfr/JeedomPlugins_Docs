@@ -1,3 +1,11 @@
+2025-10-20
+===
+
+-   Ajout d'un bouton "On" qui sert à allumer le thermostat sur le dernier mode/consigne et d'une info "Etat" qui sert à savoir si le thermostat est allumé ou éteint
+    (Pour un thermostat déjà existant : Sauvegardez le et cliquer sur ré-ordonner dans l'onglet "commandes")
+-   Ajustement visuel (réduction) des icones d'action dans le backend.
+
+
 2025-06-12
 ===
 
